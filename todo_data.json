@@ -1,0 +1,19 @@
+{
+    "offen": [
+        "kochen",
+        "einkaufen",
+        "schalfen",
+        "saufen",
+        "schwimmen",
+        "auto waschen",
+        "aufr\u00e4umen",
+        "streichen",
+        "haare waschen"
+    ],
+    "erledigt": [
+        "tanken",
+        "ausmisten",
+        "putzen",
+        "lachen"
+    ]
+}
